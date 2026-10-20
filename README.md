@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Science student at <b>Worcester Polytechnic Institute</b><br>
-  I build open-source tools for the Belarusian language and love shipping things at hackathons.
+  I like turning messy real-world problems into clean, working software.
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@
 
 ### 🗣️ Languages
 
-Belarusian · Russian · English · Polish
+English · Belarusian · Russian · Polish
 
 ### ⛰️ Outside of code
 
-Hiking · skiing · rock climbing · travel
+Hiking · Skiing · Rock climbing · Travel
 
 ---
 
